@@ -83,7 +83,6 @@ El póster presenta de forma visual y resumida los aspectos más importantes del
 ## 🛠️ Herramientas Utilizadas
 - **Enterprise Architect** – Modelado del sistema
 - **GitHub** – Control de versiones y documentación
-- **PDF** – Documentación formal del proyecto
 
 ---
 
