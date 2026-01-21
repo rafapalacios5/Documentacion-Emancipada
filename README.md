@@ -35,7 +35,7 @@ En esta fase se identifican y documentan los requisitos funcionales y no funcion
 - [Documentación Resumen de Requisitos](DocumentacionResumenRequisitos_Emancipada.pdf)
 
 ### Contenido principal:
-- Requisitos de negocio
+- Requisitos de usuario
 - Requisitos funcionales
 - Requisitos no funcionales
 
