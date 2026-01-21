@@ -17,7 +17,7 @@ El repositorio contiene **toda la documentación del proyecto**, siguiendo una m
 Describe el propósito del sistema, los objetivos generales, el alcance del proyecto y los beneficios esperados para la librería emancipada.
 
 📎 **Archivo:**  
-- [Documento Visión Proyecto Emancipada](documentacion/01_vision_y_acta/Documento%20Vision%20Proyecto%20Emancipada.pdf)
+- [Documento Visión Proyecto Emancipada](Documento%20Vision%20Proyecto%20Emancipada.pdf)
 
 ### 📄 Acta de Constitución del Proyecto
 Establece formalmente el inicio del proyecto, los responsables, stakeholders, recursos y restricciones principales.
