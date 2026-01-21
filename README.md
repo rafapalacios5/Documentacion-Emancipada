@@ -64,6 +64,11 @@ En esta fase se realizaron pruebas de calidad y análisis estático del código 
 📎 **Imagen de la prueba:**
 - [Pruebas SonarQube – Tema Blocksy](PruebaSonar.jpeg)
 
+### Las pruebas permitieron identificar:
+- Calidad del código
+- Vulnerabilidades de seguridad
+- Mantenibilidad del proyecto
+
 ---
 
 ## 🛠️ Herramientas Utilizadas
