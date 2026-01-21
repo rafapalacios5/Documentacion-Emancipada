@@ -32,7 +32,7 @@ Establece formalmente el inicio del proyecto, los responsables, stakeholders, re
 En esta fase se identifican y documentan los requisitos funcionales y no funcionales del sistema, así como los actores involucrados y los casos de uso principales.
 
 📎 **Archivo de Requisitos:**  
-- `documentacion/02_analisis/Documento_de_Requisitos.pdf`
+- [Documentación Resumen de Requisitos](DocumentacionResumenRequisitos_Emancipada.pdf)
 
 ### Contenido principal:
 - Requisitos de negocio
