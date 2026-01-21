@@ -23,7 +23,7 @@ Describe el propósito del sistema, los objetivos generales, el alcance del proy
 Establece formalmente el inicio del proyecto, los responsables, stakeholders, recursos y restricciones principales.
 
 📎 **Archivo:**  
-- [Acta de Constitución Emancipada](Acta%20de%20Constitución%20Emancipada.pdf)
+- [Acta de Constitución Emancipada](Acta%20de%20Constitución%20Emancipada.pdf)
 
 ---
 
