@@ -91,9 +91,3 @@ El póster presenta de forma visual y resumida los aspectos más importantes del
 **Esther Méndez**  
 **Rafaella Palacios**
 Proyecto académico – Librería Emancipada  
-
----
-
-## 📄 Licencia
-Este proyecto es de carácter académico y su uso está destinado únicamente a fines educativos.
-
