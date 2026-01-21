@@ -57,6 +57,15 @@ En esta fase se presenta el diseño lógico y estructural del sistema, modelado 
 
 ---
 
+## 🧪 Fase 4: Pruebas
+
+En esta fase se realizaron pruebas de calidad y análisis estático del código utilizando SonarQube, aplicadas al tema Blocksy de WordPress, con el objetivo de evaluar buenas prácticas, seguridad, mantenibilidad y posibles vulnerabilidades.
+
+📎 **Imagen de la prueba:**
+- [Pruebas SonarQube – Tema Blocksy](PruebaSonar.jpeg)
+
+---
+
 ## 🛠️ Herramientas Utilizadas
 - **Enterprise Architect** – Modelado del sistema
 - **GitHub** – Control de versiones y documentación
