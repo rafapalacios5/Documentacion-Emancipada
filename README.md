@@ -71,6 +71,15 @@ En esta fase se realizaron pruebas de calidad y análisis estático del código 
 
 ---
 
+## 🖼️ Póster de Presentación
+
+El póster presenta de forma visual y resumida los aspectos más importantes del proyecto, incluyendo el objetivo, alcance, fases de desarrollo y resultados obtenidos.
+
+📎 **Póster del Proyecto:**
+- [Póster de Presentación – Librería Emancipada](PosterPresentación.png)
+
+---
+
 ## 🛠️ Herramientas Utilizadas
 - **Enterprise Architect** – Modelado del sistema
 - **GitHub** – Control de versiones y documentación
