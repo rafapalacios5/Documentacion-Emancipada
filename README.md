@@ -46,7 +46,7 @@ En esta fase se identifican y documentan los requisitos funcionales y no funcion
 En esta fase se presenta el diseño lógico y estructural del sistema, modelado mediante **Enterprise Architect**.
 
 📎 **Archivo de Diseño:**  
-- `documentacion/03_diseno/Modelo_Enterprise_Architect.eapx`
+- [Modelo Enterprise Architect – Emancipada](Emancipada.eapx)
 
 ### Diagramas incluidos:
 - Diagrama de casos de uso
