@@ -90,4 +90,5 @@ El póster presenta de forma visual y resumida los aspectos más importantes del
 ## 👤 Autores
 **Esther Méndez**  
 **Rafaella Palacios**
+
 Proyecto académico – Librería Emancipada  
