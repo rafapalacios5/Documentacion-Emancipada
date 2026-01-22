@@ -82,6 +82,7 @@ El póster presenta de forma visual y resumida los aspectos más importantes del
 
 ## 🛠️ Herramientas Utilizadas
 - **Enterprise Architect** – Modelado del sistema
+- **WordPress** - Interfaz Visual
 - **GitHub** – Control de versiones y documentación
 
 ---
