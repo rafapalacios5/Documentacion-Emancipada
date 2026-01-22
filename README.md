@@ -3,7 +3,7 @@
 ## 📌 Descripción del Proyecto
 Este proyecto corresponde al desarrollo de un **Sistema de Gestión para la Librería Emancipada**, cuyo objetivo es optimizar los procesos de administración de libros, clientes, ventas e inventario, promoviendo el acceso autónomo a la cultura y al conocimiento.
 
-El repositorio contiene **toda la documentación del proyecto**, siguiendo una metodología de desarrollo de software estructurada.
+El repositorio contiene **toda la documentación del proyecto**, siguiendo una metodología estructurada siguiendo las fases en el proceso de desarrollo de software.
 
 ---
 
