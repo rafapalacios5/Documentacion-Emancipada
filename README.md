@@ -83,7 +83,13 @@ El póster presenta de forma visual y resumida los aspectos más importantes del
 ## 🛠️ Herramientas Utilizadas
 - **Enterprise Architect** – Modelado del sistema
 - **WordPress** - Interfaz Visual
-- **GitHub** – Control de versiones y documentación
+- **GitHub** – Documentación
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Enterprise%20Architect-005596?style=for-the-badge&logo=sparxsystems&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
