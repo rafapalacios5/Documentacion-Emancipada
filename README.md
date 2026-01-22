@@ -29,7 +29,7 @@ Establece formalmente el inicio del proyecto, los responsables, stakeholders, re
 
 ## 🔍 Fase 1: Análisis de Requisitos
 
-En esta fase se identifican y documentan los requisitos funcionales y no funcionales del sistema, así como los actores involucrados y los casos de uso principales.
+En esta fase se identifican y documentan los requisitos funcionales y no funcionales del sistema.
 
 📎 **Archivo de Requisitos:**  
 - [Documentación Resumen de Requisitos](DocumentacionResumenRequisitos_Emancipada.pdf)
