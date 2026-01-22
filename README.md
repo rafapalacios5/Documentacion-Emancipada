@@ -57,6 +57,19 @@ En esta fase se presenta el diseño lógico y estructural del sistema, modelado 
 
 ---
 
+---
+
+## ⚙️ Fase 3: Desarrollo / Construcción
+
+En esta fase se realizó la implementación del sistema utilizando **WordPress** como plataforma de desarrollo, tomando como base los requisitos definidos previamente.
+
+Se empleó el tema **Blocksy** para la construcción de la interfaz, permitiendo organizar el contenido, la navegación y la estructura visual del sistema.
+
+El resultado de esta fase es un sistema funcional a nivel visual y estructural, que sirvió como base para la ejecución de las pruebas de calidad.
+
+---
+
+
 ## 🧪 Fase 4: Pruebas
 
 En esta fase se realizaron pruebas de calidad y análisis estático del código utilizando SonarQube, aplicadas al tema Blocksy de WordPress, con el objetivo de evaluar buenas prácticas, seguridad, mantenibilidad y posibles vulnerabilidades.
